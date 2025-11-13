@@ -1,3 +1,6 @@
 
 Honorable = true
-Whitelist["yassir2011"] = nil
+
+if Whitelist["yassir2011"] then
+  Whitelist["yassir2011"] = nil
+end
