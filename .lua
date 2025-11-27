@@ -8,4 +8,5 @@ if Whitelist then
   Whitelist["vellishing"] = 4931713374
   Whitelist["Iuxeys"] = 887943597
   Whitelist["zxshaarps"] = 2968704744
+  Whitelist["souleateruzi"] = 144832780
 end
