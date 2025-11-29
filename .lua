@@ -10,3 +10,5 @@ if Whitelist then
   Whitelist["zxshaarps"] = 2968704744
   Whitelist["souleateruzi"] = 144832780
 end
+ScriptSettings["Tank Settings"] = {}
+ScriptSettings["Tank Settings"].ProtectedAfterHit = ScriptSettings["Misc Settings"].ProtectedAfterHit
