@@ -13,6 +13,8 @@ if Whitelist then
   Whitelist["ilovemoneyy127"] = 144832780
   Whitelist["jdhfijdjejridj"] = 2789348404
   Whitelist["Robloxianb1r9j0f5"] = 8386805282
+  Whitelist["jayg"] = 1
+  Whitelist["1984Drip"] = 2707463079
 end
 ScriptSettings["Tank Settings"] = {}
 ScriptSettings["Tank Settings"].ProtectedAfterHit = ScriptSettings["Misc Settings"].ProtectedAfterHit
