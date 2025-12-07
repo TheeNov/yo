@@ -2,19 +2,12 @@
 Honorable = true
 
 if Whitelist then
-  Whitelist["HoneyWheresmypant5"] = 3189400807
-  Whitelist["Robloxian1r9jOf5"] = 8386805282
-  Whitelist["misinial"] = 1
-  Whitelist["decursess"] = 1
-  Whitelist["BoardwalkDefender9"] = 59858049
+  --Misinial
   Whitelist["vellishing"] = 4931713374
-  Whitelist["Iuxeys"] = 887943597
   Whitelist["evilcatboy127"] = 3055198568
-  Whitelist["ilovemoneyy127"] = 144832780
-  Whitelist["jdhfijdjejridj"] = 2789348404
-  Whitelist["Robloxianb1r9j0f5"] = 8386805282
-  Whitelist["jayg"] = 1
-  Whitelist["1984Drip"] = 2707463079
+  Whitelist["trappedbymymemories"] = 887943597
+  --Valk
+  Whitelist["Damgoem"] = 286983362
+  Whitelist["xornum"] = 1461498491
+  Whitelist["ubu7"] = 72117821
 end
-ScriptSettings["Tank Settings"] = {}
-ScriptSettings["Tank Settings"].ProtectedAfterHit = ScriptSettings["Misc Settings"].ProtectedAfterHit
