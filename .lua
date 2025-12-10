@@ -2,7 +2,7 @@
 Honorable = true
 
 if Whitelist then
-  --Misinial
+  --Lux
   Whitelist["vellishing"] = 4931713374
   Whitelist["evilcatboy127"] = 3055198568
   Whitelist["trappedbymymemories"] = 887943597
@@ -10,7 +10,7 @@ if Whitelist then
   Whitelist["Damgoem"] = 286983362
   Whitelist["xornum"] = 1461498491
   Whitelist["ubu7"] = 72117821
-  --Lux
+  --Misinial
   Whitelist["Robloxianb1r9j0f5"] = 8386805282
   Whitelist["BoardwalkDefender9"] = 59858049
   Whitelist["Ka7ic"] = 1778013108
