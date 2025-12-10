@@ -10,8 +10,12 @@ if Whitelist then
   Whitelist["Damgoem"] = 286983362
   Whitelist["xornum"] = 1461498491
   Whitelist["ubu7"] = 72117821
-  --Misiniall?
+  --Misiniall
   Whitelist["Robloxianb1r9j0f5"] = 8386805282
   Whitelist["BoardwalkDefender9"] = 59858049
   Whitelist["Ka7ic"] = 1778013108
+  --Deva
+  Whitelist["vmrced"] = 629093680
+  Whitelist["xvlxrxc"] = 1625210793
+  Whitelist["eq4x"] = 1392525916
 end
