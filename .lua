@@ -18,4 +18,7 @@ if Whitelist then
   Whitelist["vmrced"] = 629093680
   Whitelist["xvlxrxc"] = 1625210793
   Whitelist["eq4x"] = 1392525916
+  --Acy
+  Whielist["InloveWithMyGothGF"] = 155907036
+  Whitelist["roblox_user_3045569379"] = 3045569379
 end
