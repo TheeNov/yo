@@ -21,4 +21,7 @@ if Whitelist then
   --Acy
   Whitelist["InloveWithMyGothGF"] = 155907036
   Whitelist["roblox_user_3045569379"] = 3045569379
+  --Zycular
+  Whitelist["1984Drip"] = 2707463079
+  Whitelist["HoneyWheresmypant5"] = 3189400807
 end
