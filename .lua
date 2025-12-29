@@ -25,4 +25,7 @@ if Whitelist then
   Whitelist["1984Drip"] = 2707463079
   Whitelist["HoneyWheresmypant5"] = 3189400807
   Whitelist["TotallyTPWLK"] = 28513912
+  --Duran
+  Whitelist["xzxzxzxzxxxzz"] = 9730806639
+  Whitelist["waksy"] = 19773260
 end
