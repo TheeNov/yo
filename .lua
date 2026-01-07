@@ -28,4 +28,6 @@ if Whitelist then
   --Duran
   Whitelist["halorecoil"] = 4228647541
   Whitelist["waksy"] = 19773260
+  --vvvvv
+  Whitelist["9265z"] = 4750402284
 end
