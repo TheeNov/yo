@@ -2,6 +2,7 @@
 Honorable = true
 
 if Whitelist then
+  Whitelist["CrownedHealer"] = 7858117098
   --Lux
   Whitelist["vellishing"] = 4931713374
   Whitelist["evilcatboy127"] = 3055198568
