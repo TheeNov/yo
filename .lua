@@ -38,7 +38,7 @@ if ampWL then
     ampWL["Valkriyoo"] = 753129116
     ampWL["Xornum"] = 1461498491 
     --deva
-    ampWL["devaroiy"] = 909540093
+    ampWL["devaroIy"] = 909540093
     ampWL["qzkxww"] = 2394241339
     --lux
     ampWL["puppyboyx_v"] = 2052231994
