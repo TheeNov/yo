@@ -36,7 +36,7 @@ end
 if ampWL then
     --Valk 
     ampWL["Valkriyoo"] = 753129116
-    ampWL["Xornum"] = 1461498491 
+    ampWL["xornum"] = 1461498491 
     ampWL["qwdfqwfd_4qwdfqwd"] = 10349418783
     --deva
     ampWL["devaroIy"] = 909540093
