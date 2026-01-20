@@ -31,4 +31,16 @@ if Whitelist then
   Whitelist["waksy"] = 19773260
   --vvvvv
   Whitelist["9265z"] = 4750402284
+  
+end
+if ampWL then
+    --Valk 
+    ampWL["Valkriyoo"] = 753129116
+    ampWL["Xornum"] = 1461498491 
+    --deva
+    ampWL["devaroiy"] = 909540093
+    ampWL["qzkxww"] = 2394241339
+    --lux
+    ampWL["puppyboyx_v"] = 2052231994
+    ampWL["Iuuuuuuuux"] = 887943597
 end
