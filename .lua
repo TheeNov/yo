@@ -44,4 +44,6 @@ if ampWL then
     --lux
     ampWL["puppyboyx_v"] = 2052231994
     ampWL["Iuuuuuuuux"] = 887943597
+  --Acy
+    ampWL["PureAspirations"] = 38310538
 end
