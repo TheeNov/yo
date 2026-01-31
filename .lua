@@ -21,7 +21,8 @@ if Whitelist then
   Whitelist["eq4x"] = 1392525916
   --Acy
   Whitelist["InloveWithMyGothGF"] = 155907036
-  Whitelist["roblox_user_3045569379"] = 3045569379
+  --Whitelist["roblox_user_3045569379"] = 3045569379
+  Whitelist["Untreatings"] = 41849384
   --Zycular
   Whitelist["1984Drip"] = 2707463079
   Whitelist["HoneyWheresmypant5"] = 3189400807
@@ -45,5 +46,6 @@ if ampWL then
     ampWL["puppyboyx_v"] = 2052231994
     ampWL["Iuuuuuuuux"] = 887943597
   --Acy
-    ampWL["PureAspirations"] = 38310538
+    --ampWL["PureAspirations"] = 38310538
+    ampWL["Untreatings"] = 41849384
 end
