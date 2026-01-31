@@ -46,6 +46,6 @@ if ampWL then
     ampWL["puppyboyx_v"] = 2052231994
     ampWL["Iuuuuuuuux"] = 887943597
   --Acy
-    --ampWL["PureAspirations"] = 38310538
+    ampWL["PureAspirations"] = 38310538
     ampWL["Untreatings"] = 41849384
 end
