@@ -37,4 +37,6 @@ if Whitelist then
   Whitelist["halorecoil"] = 4228647541
   --Andrew on discord or t6rments
   Whitelist["t6rments"] = 4077368278
+  Whitelist["spelluzi"] = 3803481866
+  Whitelist["feelmylight"] = 34517657
 end
