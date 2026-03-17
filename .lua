@@ -38,5 +38,6 @@ if Whitelist then
   --Andrew on discord or t6rments
   Whitelist["t6rments"] = 4077368278
   Whitelist["spelluzi"] = 3803481866
-  Whitelist["feelmylight"] = 34517657
+  Whitelist["ketodona"] = 858169521
+  
 end
