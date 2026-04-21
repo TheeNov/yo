@@ -41,3 +41,7 @@ if Whitelist then
   Whitelist["ketodona"] = 858169521
   
 end
+if ampWL or AMPWL or AmpWL then
+    ampWL["rupitusman"] = 16793030
+    ampWL["1984Drip"] = 2707463079
+end
